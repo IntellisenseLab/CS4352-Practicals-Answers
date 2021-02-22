@@ -1,0 +1,7 @@
+manipulator/DynamixelSDK/ros/dynamixel_sdk
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake /home/intellisense/Answers/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake /home/intellisense/Answers/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/lib/libdynamixel_sdk.so /home/intellisense/Answers/devel/lib/libdynamixel_sdk.so
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/lib/pkgconfig/dynamixel_sdk.pc /home/intellisense/Answers/devel/lib/pkgconfig/dynamixel_sdk.pc
+/home/intellisense/Answers/devel/.private/dynamixel_sdk/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py /home/intellisense/Answers/devel/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py

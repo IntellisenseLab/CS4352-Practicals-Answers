@@ -1,0 +1,2 @@
+manipulator/dynamixel-workbench/dynamixel_workbench
+/home/haritha/Documents/sem8/robotics/robotics/devel/.private/dynamixel_workbench/cmake.lock /home/haritha/Documents/sem8/robotics/robotics/devel/./cmake.lock

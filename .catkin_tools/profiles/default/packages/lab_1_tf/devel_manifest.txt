@@ -1,0 +1,5 @@
+lab_1_tf
+/home/intellisense/Answers/devel/.private/lab_1_tf/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/lab_1_tf/share/lab_1_tf/cmake/lab_1_tfConfig.cmake /home/intellisense/Answers/devel/share/lab_1_tf/cmake/lab_1_tfConfig.cmake
+/home/intellisense/Answers/devel/.private/lab_1_tf/share/lab_1_tf/cmake/lab_1_tfConfig-version.cmake /home/intellisense/Answers/devel/share/lab_1_tf/cmake/lab_1_tfConfig-version.cmake
+/home/intellisense/Answers/devel/.private/lab_1_tf/lib/pkgconfig/lab_1_tf.pc /home/intellisense/Answers/devel/lib/pkgconfig/lab_1_tf.pc

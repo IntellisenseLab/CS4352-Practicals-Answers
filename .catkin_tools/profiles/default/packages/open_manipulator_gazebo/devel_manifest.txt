@@ -1,0 +1,6 @@
+manipulator/open_manipulator_simulations/open_manipulator_gazebo
+/home/intellisense/Answers/devel/.private/open_manipulator_gazebo/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/open_manipulator_gazebo/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig-version.cmake /home/intellisense/Answers/devel/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig-version.cmake
+/home/intellisense/Answers/devel/.private/open_manipulator_gazebo/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig.cmake /home/intellisense/Answers/devel/share/open_manipulator_gazebo/cmake/open_manipulator_gazeboConfig.cmake
+/home/intellisense/Answers/devel/.private/open_manipulator_gazebo/lib/pkgconfig/open_manipulator_gazebo.pc /home/intellisense/Answers/devel/lib/pkgconfig/open_manipulator_gazebo.pc
+/home/intellisense/Answers/devel/.private/open_manipulator_gazebo/lib/open_manipulator_gazebo/omx_gripper_sub_publisher /home/intellisense/Answers/devel/lib/open_manipulator_gazebo/omx_gripper_sub_publisher

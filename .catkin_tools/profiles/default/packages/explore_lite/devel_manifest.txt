@@ -1,0 +1,6 @@
+m-explore/explore
+/home/intellisense/Answers/devel/.private/explore_lite/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/explore_lite/share/explore_lite/cmake/explore_liteConfig-version.cmake /home/intellisense/Answers/devel/share/explore_lite/cmake/explore_liteConfig-version.cmake
+/home/intellisense/Answers/devel/.private/explore_lite/share/explore_lite/cmake/explore_liteConfig.cmake /home/intellisense/Answers/devel/share/explore_lite/cmake/explore_liteConfig.cmake
+/home/intellisense/Answers/devel/.private/explore_lite/lib/pkgconfig/explore_lite.pc /home/intellisense/Answers/devel/lib/pkgconfig/explore_lite.pc
+/home/intellisense/Answers/devel/.private/explore_lite/lib/explore_lite/explore /home/intellisense/Answers/devel/lib/explore_lite/explore

@@ -1,0 +1,6 @@
+manipulator/robotis_manipulator
+/home/intellisense/Answers/devel/.private/robotis_manipulator/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake /home/intellisense/Answers/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake
+/home/intellisense/Answers/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake /home/intellisense/Answers/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake
+/home/intellisense/Answers/devel/.private/robotis_manipulator/lib/librobotis_manipulator.so /home/intellisense/Answers/devel/lib/librobotis_manipulator.so
+/home/intellisense/Answers/devel/.private/robotis_manipulator/lib/pkgconfig/robotis_manipulator.pc /home/intellisense/Answers/devel/lib/pkgconfig/robotis_manipulator.pc

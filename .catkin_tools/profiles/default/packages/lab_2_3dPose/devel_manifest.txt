@@ -1,0 +1,22 @@
+lab_2_3dPose
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/include/lab_2_3dPose/anglesRequest.h /home/intellisense/Answers/devel/include/lab_2_3dPose/anglesRequest.h
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/include/lab_2_3dPose/angles.h /home/intellisense/Answers/devel/include/lab_2_3dPose/angles.h
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/include/lab_2_3dPose/anglesResponse.h /home/intellisense/Answers/devel/include/lab_2_3dPose/anglesResponse.h
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/common-lisp/ros/lab_2_3dPose/srv/_package.lisp /home/intellisense/Answers/devel/share/common-lisp/ros/lab_2_3dPose/srv/_package.lisp
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/common-lisp/ros/lab_2_3dPose/srv/_package_angles.lisp /home/intellisense/Answers/devel/share/common-lisp/ros/lab_2_3dPose/srv/_package_angles.lisp
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/common-lisp/ros/lab_2_3dPose/srv/lab_2_3dPose-srv.asd /home/intellisense/Answers/devel/share/common-lisp/ros/lab_2_3dPose/srv/lab_2_3dPose-srv.asd
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/common-lisp/ros/lab_2_3dPose/srv/angles.lisp /home/intellisense/Answers/devel/share/common-lisp/ros/lab_2_3dPose/srv/angles.lisp
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/roseus/ros/lab_2_3dPose/manifest.l /home/intellisense/Answers/devel/share/roseus/ros/lab_2_3dPose/manifest.l
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/roseus/ros/lab_2_3dPose/srv/angles.l /home/intellisense/Answers/devel/share/roseus/ros/lab_2_3dPose/srv/angles.l
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/gennodejs/ros/lab_2_3dPose/_index.js /home/intellisense/Answers/devel/share/gennodejs/ros/lab_2_3dPose/_index.js
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/gennodejs/ros/lab_2_3dPose/srv/_index.js /home/intellisense/Answers/devel/share/gennodejs/ros/lab_2_3dPose/srv/_index.js
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/gennodejs/ros/lab_2_3dPose/srv/angles.js /home/intellisense/Answers/devel/share/gennodejs/ros/lab_2_3dPose/srv/angles.js
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/lab_2_3dPose/cmake/lab_2_3dPose-msg-extras.cmake /home/intellisense/Answers/devel/share/lab_2_3dPose/cmake/lab_2_3dPose-msg-extras.cmake
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/lab_2_3dPose/cmake/lab_2_3dPoseConfig-version.cmake /home/intellisense/Answers/devel/share/lab_2_3dPose/cmake/lab_2_3dPoseConfig-version.cmake
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/lab_2_3dPose/cmake/lab_2_3dPose-msg-paths.cmake /home/intellisense/Answers/devel/share/lab_2_3dPose/cmake/lab_2_3dPose-msg-paths.cmake
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/share/lab_2_3dPose/cmake/lab_2_3dPoseConfig.cmake /home/intellisense/Answers/devel/share/lab_2_3dPose/cmake/lab_2_3dPoseConfig.cmake
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/lib/pkgconfig/lab_2_3dPose.pc /home/intellisense/Answers/devel/lib/pkgconfig/lab_2_3dPose.pc
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/lib/python2.7/dist-packages/lab_2_3dPose/__init__.py /home/intellisense/Answers/devel/lib/python2.7/dist-packages/lab_2_3dPose/__init__.py
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/lib/python2.7/dist-packages/lab_2_3dPose/srv/__init__.py /home/intellisense/Answers/devel/lib/python2.7/dist-packages/lab_2_3dPose/srv/__init__.py
+/home/intellisense/Answers/devel/.private/lab_2_3dPose/lib/python2.7/dist-packages/lab_2_3dPose/srv/_angles.py /home/intellisense/Answers/devel/lib/python2.7/dist-packages/lab_2_3dPose/srv/_angles.py

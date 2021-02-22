@@ -1,0 +1,7 @@
+manipulator/dynamixel-workbench/dynamixel_workbench_operators
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/cmake.lock /home/intellisense/Answers/devel/./cmake.lock
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake /home/intellisense/Answers/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake /home/intellisense/Answers/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/lib/pkgconfig/dynamixel_workbench_operators.pc /home/intellisense/Answers/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator /home/intellisense/Answers/devel/lib/dynamixel_workbench_operators/wheel_operator
+/home/intellisense/Answers/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator /home/intellisense/Answers/devel/lib/dynamixel_workbench_operators/joint_operator

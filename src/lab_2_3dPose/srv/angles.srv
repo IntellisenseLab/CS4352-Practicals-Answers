@@ -1,0 +1,9 @@
+float64 a
+float64 b
+float64 c
+string format
+---
+float64 qx
+float64 qy
+float64 qz
+float64 qw

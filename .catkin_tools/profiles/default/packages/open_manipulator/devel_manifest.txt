@@ -1,0 +1,2 @@
+manipulator/open_manipulator/open_manipulator
+/home/haritha/Documents/sem8/robotics/robotics/devel/.private/open_manipulator/cmake.lock /home/haritha/Documents/sem8/robotics/robotics/devel/./cmake.lock

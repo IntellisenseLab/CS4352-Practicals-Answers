@@ -1,0 +1,5 @@
+lab_5_taskspacecontrol
+/home/intellisense/Evaluation/160238R/devel/.private/lab_5_taskspacecontrol/cmake.lock /home/intellisense/Evaluation/160238R/devel/./cmake.lock
+/home/intellisense/Evaluation/160238R/devel/.private/lab_5_taskspacecontrol/share/lab_5_taskspacecontrol/cmake/lab_5_taskspacecontrolConfig.cmake /home/intellisense/Evaluation/160238R/devel/share/lab_5_taskspacecontrol/cmake/lab_5_taskspacecontrolConfig.cmake
+/home/intellisense/Evaluation/160238R/devel/.private/lab_5_taskspacecontrol/share/lab_5_taskspacecontrol/cmake/lab_5_taskspacecontrolConfig-version.cmake /home/intellisense/Evaluation/160238R/devel/share/lab_5_taskspacecontrol/cmake/lab_5_taskspacecontrolConfig-version.cmake
+/home/intellisense/Evaluation/160238R/devel/.private/lab_5_taskspacecontrol/lib/pkgconfig/lab_5_taskspacecontrol.pc /home/intellisense/Evaluation/160238R/devel/lib/pkgconfig/lab_5_taskspacecontrol.pc
